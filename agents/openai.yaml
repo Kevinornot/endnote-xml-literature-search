@@ -1,0 +1,4 @@
+interface:
+  display_name: "EndNote XML Literature Search"
+  short_description: "Search EndNote metadata and answer from matched local PDFs"
+  default_prompt: "Use $endnote-xml-literature-search to search an EndNote XML export first, resolve only relevant PDFs, and answer with evidence locations."
