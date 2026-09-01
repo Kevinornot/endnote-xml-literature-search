@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <records>
+    <record>
+      <rec-number>10</rec-number>
+      <titles><title><style face="normal">Redox control of phosphorus release</style></title></titles>
+      <contributors>
+        <authors>
+          <author><style>Example, Author A</style></author>
+          <author><style>Example, Author B</style></author>
+        </authors>
+      </contributors>
+      <dates><year>2021</year></dates>
+      <periodical><full-title>Water Research</full-title></periodical>
+      <abstract><style>铁还原与缺氧共同促进沉积物磷释放。</style></abstract>
+      <keywords><keyword>redox</keyword><keyword>phosphorus</keyword></keywords>
+      <electronic-resource-num>https://doi.org/10.0000/example-a</electronic-resource-num>
+      <urls>
+        <related-urls><url>https://example.org/article/1</url></related-urls>
+        <pdf-urls><url>internal-pdf://0000000000/example-paper.pdf</url></pdf-urls>
+      </urls>
+    </record>
+    <record>
+      <rec-number>11</rec-number>
+      <titles><title>Redox control of phosphorus release</title></titles>
+      <contributors><authors><author>Example, Author A</author></authors></contributors>
+      <dates><year>2021</year></dates>
+      <secondary-title>Water Research</secondary-title>
+      <abstract>Duplicate record with complementary metadata.</abstract>
+      <keywords><keyword>anoxia</keyword></keywords>
+      <electronic-resource-num>doi:10.0000/EXAMPLE-A</electronic-resource-num>
+    </record>
+    <record>
+      <rec-number>12</rec-number>
+      <titles><title>磷酸镧钝化湖泊沉积物活性磷</title></titles>
+      <contributors><authors><author>示例作者</author></authors></contributors>
+      <dates><year>2023</year></dates>
+      <secondary-title>Environmental Science &amp; Technology</secondary-title>
+      <keywords><keyword>LaPO4</keyword><keyword>31P NMR</keyword></keywords>
+      <electronic-resource-num>10.0000/example-b</electronic-resource-num>
+    </record>
+  </records>
+</xml>
